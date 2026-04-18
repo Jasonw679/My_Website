@@ -1,0 +1,22 @@
+
+<div class="title">
+  <h1>Wild Genre Dev</h1>
+</div>
+<h2>By Jason Wong</h2>
+<p>Welcome to Wild Genre Dev. My name is Jason and I am a Unity and Unreal asset developer focused on delivering tools to help developers bring their ideas to life.</p>
+
+<h2>Projects</h2>
+<ul>
+  <li *ngFor="let project of projects$ | async">
+    <h3>{{ project.Name }}</h3>
+    <p *ngIf="project.Description">{{ project.Description }}</p>
+    <a *ngIf="project.Image" [href]="project.Link || '#'" target="_blank">
+      <img [src]="project.Image" [alt]="project.Name" class="project-thumbnail" />
+    </a>
+  </li>
+</ul>
+<router-outlet></router-outlet>
+
+<app-footer></app-footer>
+
+<router-outlet />

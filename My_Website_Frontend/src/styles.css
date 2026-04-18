@@ -1,0 +1,21 @@
+body {
+  height: 100%;
+  margin: 0;
+  background-color: #6699ff;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  color: #ffffff;
+  height: 80px;
+  text-align: center;
+}
+
+.project-thumbnail {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}

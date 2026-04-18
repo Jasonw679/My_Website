@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "Name": "RPG with CCG template",
+      "Description": "A Unity Asset that combines TCG with RPG style. Ideal for developers building card battlers, deck-building roguelikes, or story-driven combat games.",
+      "Image": "RPG with CCG.png",
+      "Link": "https://assetstore.unity.com/packages/tools/game-toolkits/rpg-with-ccg-template-328358"
+    },
+    {
+      "Name": "Battlefield TCG Template Prototype",
+      "Description": "Battlefield TCG Template is a TCG game with a battlefield based on the new TCG game Riftbound. This is the working early-stage prototype.",
+      "Image": "Battlefield TCG.jpg",
+      "Link": "https://www.fab.com/listings/f8628b60-a0b0-4b62-b3fa-1a6413f41ac0"
+    }
+  ]
+}
