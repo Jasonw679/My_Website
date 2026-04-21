@@ -34,9 +34,8 @@
                 "input": "public"
               }
             ],
-            "styles": [
-              "src/styles.css"
-            ]
+            "styles": ["src/styles.css"],
+            "outputPath": "dist/My_Website_Frontend"
           },
           "configurations": {
             "production": {
