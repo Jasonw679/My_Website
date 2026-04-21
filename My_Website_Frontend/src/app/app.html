@@ -13,10 +13,9 @@
     <a *ngIf="project.Image" [href]="project.Link || '#'" target="_blank">
       <img [src]="project.Image" [alt]="project.Name" class="project-thumbnail" />
     </a>
+    <br />
+    <a *ngIf="project.Documentation" [href]="project.Documentation" target="_blank" class="docs-button">Documentation</a>
   </li>
 </ul>
-<router-outlet></router-outlet>
-
 <app-footer></app-footer>
-
-<router-outlet />
+<router-outlet></router-outlet>

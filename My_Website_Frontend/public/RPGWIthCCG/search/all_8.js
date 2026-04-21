@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['iconsumablecondition_0',['IConsumableCondition',['../interface_card_r_p_g_1_1_i_consumable_condition.html',1,'CardRPG']]],
+  ['iendlogic_1',['IEndLogic',['../interface_card_r_p_g_1_1_i_end_logic.html',1,'CardRPG']]],
+  ['ifcondition_2',['IfCondition',['../class_card_r_p_g_1_1_if_condition.html',1,'CardRPG']]],
+  ['ihangingeffect_3',['IHangingEffect',['../interface_card_r_p_g_1_1_i_hanging_effect.html',1,'CardRPG']]],
+  ['image_4',['Image',['../class_card_r_p_g_1_1_card.html#a69cd1d0c190e48d329972d3329ff6b62',1,'CardRPG::Card']]],
+  ['imagemanager_5',['ImageManager',['../class_card_r_p_g_1_1_image_manager.html',1,'CardRPG']]],
+  ['imagemanagereditor_6',['ImageManagerEditor',['../class_card_r_p_g_1_1_image_manager_editor.html',1,'CardRPG']]],
+  ['incomingheal_7',['IncomingHeal',['../class_card_r_p_g_1_1_status.html#a11c9c71b403ae51524b1d62305da1344',1,'CardRPG::Status']]],
+  ['initializedeck_8',['InitializeDeck',['../class_card_r_p_g_1_1_dueler.html#af41240b1235cedb8b8bd6cff57e403b5',1,'CardRPG.Dueler.InitializeDeck()'],['../class_card_r_p_g_1_1_enemy.html#afa1c22c116ca0e36a3e05f5b05771660',1,'CardRPG.Enemy.InitializeDeck()'],['../class_card_r_p_g_1_1_minion.html#a1ccfd8da01b5c08dc29a99aee4b30376',1,'CardRPG.Minion.InitializeDeck()']]],
+  ['int_9',['int',['../class_card_r_p_g_1_1_a_i_logic.html#a2bdff5127efe6daf016b75420b55739d',1,'CardRPG::AILogic']]],
+  ['invokeability_10',['InvokeAbility',['../class_card_r_p_g_1_1_passive_ability.html#aa60cfb728900bff0dce97cb1ffbeb6b9',1,'CardRPG::PassiveAbility']]],
+  ['isalive_11',['IsAlive',['../class_card_r_p_g_1_1_dueler.html#a800f08d0f37d3468a0196f569446e612',1,'CardRPG::Dueler']]],
+  ['isbomb_12',['IsBomb',['../class_card_r_p_g_1_1_o_t_effect.html#ab2b2e2a5094d3f56c27d16312b5837f0',1,'CardRPG::OTEffect']]],
+  ['iscompleted_13',['IsCompleted',['../class_card_r_p_g_1_1_quest.html#a49d1ed917709a1b0c32c5539665a9c1c',1,'CardRPG::Quest']]],
+  ['ishopableitem_14',['IShopableItem',['../interface_card_r_p_g_1_1_i_shopable_item.html',1,'CardRPG']]],
+  ['ispaused_15',['IsPaused',['../class_card_r_p_g_1_1_pause_manager.html#a50aea9afb9564a65c9408932d486feb4',1,'CardRPG::PauseManager']]],
+  ['istatus_16',['IStatus',['../interface_card_r_p_g_1_1_i_status.html',1,'CardRPG']]],
+  ['itriggereffect_17',['ITriggerEffect',['../interface_card_r_p_g_1_1_i_trigger_effect.html',1,'CardRPG']]]
+];

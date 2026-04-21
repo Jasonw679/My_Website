@@ -1,0 +1,25 @@
+var class_card_r_p_g_1_1_card =
+[
+    [ "GetCardBaseDamage", "class_card_r_p_g_1_1_card.html#aecef24ff2b3e8c6a4039c4fba8c57760", null ],
+    [ "GetTargetsBasedOnCard", "class_card_r_p_g_1_1_card.html#a004f044cf3dd1abe848acb1bb69ec058", null ],
+    [ "Accuracy", "class_card_r_p_g_1_1_card.html#ad6fcf01c71e0650d62562243024ddee9", null ],
+    [ "CardLogics", "class_card_r_p_g_1_1_card.html#a8eb840439ccfdea5f385f62f1c1730ce", null ],
+    [ "CardSpecial", "class_card_r_p_g_1_1_card.html#ab1c1db99b331e75dafc8b552dff36ac2", null ],
+    [ "Description", "class_card_r_p_g_1_1_card.html#a33e94e36f25832b990e8d8d363ca8a96", null ],
+    [ "Element", "class_card_r_p_g_1_1_card.html#a0164d5ccb7f30eb8db6630b19a28c1c7", null ],
+    [ "EnchantLogic", "class_card_r_p_g_1_1_card.html#a0ed7e5b2410a2ba13a99fff72358070b", null ],
+    [ "GetCardInitDamage", "class_card_r_p_g_1_1_card.html#ae80013262de0cd6871b4c45095da837d", null ],
+    [ "Image", "class_card_r_p_g_1_1_card.html#a69cd1d0c190e48d329972d3329ff6b62", null ],
+    [ "LevelRequirement", "class_card_r_p_g_1_1_card.html#adc447afcbb3ae9e29dbd195ec256b86f", null ],
+    [ "MaxPip", "class_card_r_p_g_1_1_card.html#a481e797139026a2b90cc90be505065fd", null ],
+    [ "Name", "class_card_r_p_g_1_1_card.html#a9a66b4f94bf31d99cca9d5e468d57dad", null ],
+    [ "NotForSale", "class_card_r_p_g_1_1_card.html#acb5173bddeb6e3daf90fa5372ea8e26d", null ],
+    [ "PerPip", "class_card_r_p_g_1_1_card.html#a58a3c21b85189319c4a6e0f9b915a200", null ],
+    [ "PipCost", "class_card_r_p_g_1_1_card.html#a787cb46c94995b0826ad91a3f498667c", null ],
+    [ "PlayAgain", "class_card_r_p_g_1_1_card.html#a2ba99929c4f37f4c9fa02a564cf86e91", null ],
+    [ "RequireSameElement", "class_card_r_p_g_1_1_card.html#ac5e2e8a4506f8b5983691875b28b3c37", null ],
+    [ "SubCard", "class_card_r_p_g_1_1_card.html#a248b60ce26cba71ed06b986088b3cb01", null ],
+    [ "Target", "class_card_r_p_g_1_1_card.html#a824a486d87e673a005dac7dcafcb7ced", null ],
+    [ "Type", "class_card_r_p_g_1_1_card.html#a1c3eb2eb2941b1bf89da62aff6c03aac", null ],
+    [ "Value", "class_card_r_p_g_1_1_card.html#a7e869d5fd8501bd5df9bc326a469c315", null ]
+];

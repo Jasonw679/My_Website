@@ -4,7 +4,8 @@
       "Name": "RPG with CCG template",
       "Description": "A Unity Asset that combines TCG with RPG style. Ideal for developers building card battlers, deck-building roguelikes, or story-driven combat games.",
       "Image": "RPG with CCG.png",
-      "Link": "https://assetstore.unity.com/packages/tools/game-toolkits/rpg-with-ccg-template-328358"
+      "Link": "https://assetstore.unity.com/packages/tools/game-toolkits/rpg-with-ccg-template-328358",
+      "Documentation": "RPGWIthCCG/namespace_card_r_p_g.html"
     },
     {
       "Name": "Battlefield TCG Template Prototype",

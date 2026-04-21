@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['remainingrounds_0',['remainingRounds',['../class_card_r_p_g_1_1_o_t_effect.html#a7273e9dc3e22502130adff9670cd48f6',1,'CardRPG::OTEffect']]],
+  ['removeeffect_1',['RemoveEffect',['../class_card_r_p_g_1_1_effect_slot-1-g.html#aced2123641f1c46cf6e1f73a11c32b2d',1,'CardRPG::EffectSlot-1-g']]],
+  ['removeinvoketrigger_2',['RemoveInvokeTrigger',['../class_card_r_p_g_1_1_passive_ability.html#aa4ddfcf4c032df3b52aa1b877f973572',1,'CardRPG::PassiveAbility']]],
+  ['removelogic_3',['RemoveLogic',['../class_card_r_p_g_1_1_remove_logic.html',1,'CardRPG']]],
+  ['removenegativeeffects_4',['RemoveNegativeEffects',['../class_card_r_p_g_1_1_effect_slot-1-g.html#ae047e71d685d3923b5bd03cef7711122',1,'CardRPG::EffectSlot-1-g']]],
+  ['removepip_5',['RemovePip',['../class_card_r_p_g_1_1_dueler.html#a6b4143df8acedb08b23eaa5a3411d95f',1,'CardRPG::Dueler']]],
+  ['removepositiveeffects_6',['RemovePositiveEffects',['../class_card_r_p_g_1_1_effect_slot-1-g.html#a44a5697b221534a4eace49f7d068ba55',1,'CardRPG::EffectSlot-1-g']]],
+  ['repeatcondition_7',['RepeatCondition',['../class_card_r_p_g_1_1_repeat_condition.html',1,'CardRPG.RepeatCondition'],['../class_card_r_p_g_1_1_card_logic.html#a8d61b38004c745e92db53e5114941529',1,'CardRPG.CardLogic.RepeatCondition']]],
+  ['repeatcount_8',['RepeatCount',['../class_card_r_p_g_1_1_repeat_count.html',1,'CardRPG.RepeatCount'],['../class_card_r_p_g_1_1_card_logic.html#a3cc68599c7c94d0a6d55cab8247d419b',1,'CardRPG.CardLogic.RepeatCount()']]],
+  ['repeatlogic_9',['RepeatLogic',['../class_card_r_p_g_1_1_repeat_condition.html#a8f8d066765f7a8d67b2db9223783924d',1,'CardRPG::RepeatCondition']]],
+  ['requiresameelement_10',['RequireSameElement',['../class_card_r_p_g_1_1_card.html#ac5e2e8a4506f8b5983691875b28b3c37',1,'CardRPG::Card']]],
+  ['resolveoteffects_11',['ResolveOTEffects',['../class_card_r_p_g_1_1_o_t_effect.html#a3fdb67aaf36bacdea7f7457f605d80a7',1,'CardRPG::OTEffect']]],
+  ['resolvepips_12',['ResolvePips',['../class_card_r_p_g_1_1_dueler.html#acc1b7f128a4c73f2ccf543d7a5705740',1,'CardRPG::Dueler']]],
+  ['resume_13',['Resume',['../class_card_r_p_g_1_1_pause_manager.html#a0b51be7fc1093a8258f50029e079731e',1,'CardRPG::PauseManager']]],
+  ['rewardcard_14',['RewardCard',['../class_card_r_p_g_1_1_reward_set.html#a78fdb8fd8b1ae5ade515be583f0474a5',1,'CardRPG.RewardSet.RewardCard'],['../class_card_r_p_g_1_1_quest.html#a70b30db2637099bbbd42c2cba6ea6ac5',1,'CardRPG.Quest.RewardCard']]],
+  ['rewardequipment_15',['RewardEquipment',['../class_card_r_p_g_1_1_quest.html#a99ca2584f1930cb20635473d45c9bad9',1,'CardRPG::Quest']]],
+  ['rewardrate_16',['RewardRate',['../struct_card_r_p_g_1_1_reward_rate.html',1,'CardRPG']]],
+  ['rewardset_17',['RewardSet',['../class_card_r_p_g_1_1_reward_set.html',1,'CardRPG']]],
+  ['rewardset_18',['rewardSet',['../class_card_r_p_g_1_1_enemy.html#af3b13323a31555f9a2c923dfed1daee5',1,'CardRPG::Enemy']]],
+  ['ring_19',['Ring',['../class_card_r_p_g_1_1_ring.html',1,'CardRPG']]],
+  ['robe_20',['Robe',['../class_card_r_p_g_1_1_robe.html',1,'CardRPG']]]
+];

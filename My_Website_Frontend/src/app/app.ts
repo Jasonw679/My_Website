@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
 
-interface Project { Name: string; Description?: string; Image?: string; Link?: string; }
+interface Project { Name: string; Description?: string; Image?: string; Link?: string; Documentation?: string; }
 
 
 @Component({
