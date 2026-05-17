@@ -9,7 +9,10 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-        
+    defaults:
+        run:
+          working-directory: My_Website_Frontend
+          
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
@@ -31,7 +34,7 @@ jobs:
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3.0
         with:
-          publish-dir: ./dist/browser
+          publish-dir: ./My_Website_Frontend/dist/My_Website_Frontend/browser
           production-branch: main
           github-token: ${{ secrets.GITHUB_TOKEN }}
           deploy-message: "Deploy from GitHub Actions"
